@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355314656667",
+    "project_id": "xgen-c7ed6",
+    "storage_bucket": "xgen-c7ed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355314656667:android:1e3fac70001e3625872d3e",
+        "android_client_info": {
+          "package_name": "com.example.xgen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNJLGsaiXF8Vty7EfcT73v6EHZDeF9TiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
